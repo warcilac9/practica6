@@ -16,3 +16,7 @@ Roberto Melo
 
 En esta clase vemos sobre diseño y la composicion
 
+## Diseño de videojuegos 
+Hector Guerrero
+
+En esta clase vemos como diseñar un videojuego para que cumpla con ciertos estándares.
