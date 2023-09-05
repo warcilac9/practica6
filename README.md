@@ -20,3 +20,8 @@ En esta clase vemos sobre diseño y la composicion
 Hector Guerrero
 
 En esta clase vemos como diseñar un videojuego para que cumpla con ciertos estándares.
+
+## Proyecto de aplicacion
+Sebastian Mejia 
+
+En esta clase vemos como diseñar y producir una aplicación
