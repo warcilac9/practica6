@@ -25,3 +25,5 @@ En esta clase vemos como diseñar un videojuego para que cumpla con ciertos est�
 Sebastian Mejia 
 
 En esta clase vemos como diseñar y producir una aplicación
+---
+Creando la versión 1.0.0
