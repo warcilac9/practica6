@@ -26,4 +26,4 @@ Sebastian Mejia
 
 En esta clase vemos como diseñar y producir una aplicación
 ---
-Creando la versión 1.0.0
+Creando la versión v1.0.0
